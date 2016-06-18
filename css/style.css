@@ -1,0 +1,116 @@
+body{
+	width: 2000px;
+	height: 2000px;
+	
+}
+
+.anfitrion{
+	position: fixed;
+	border-bottom-left-radius: 50%;	
+	border-bottom-right-radius: 50%;
+	border-top-left-radius: 50%;
+	border-top-right-radius: 50%;
+	border: 1px solid black;
+	width: 200px;
+	height: 200px;
+	margin-left: 30vw;
+	margin-top: 30vh;
+}
+
+.invitado{
+	position: absolute;
+	border-bottom-left-radius: 50%;	
+	border-bottom-right-radius: 50%;
+	border-top-left-radius: 50%;
+	border-top-right-radius: 50%;
+
+}
+
+#uno{
+	width: 150px;
+	height: 150px;
+	left: 100px;
+	top:  300px;
+	background-color: #ff0;
+	z-index: -1;
+}
+
+
+#dos{
+	width: 200px;
+	height: 200px;
+	left: 500px;
+	top:  300px;
+	background-color: #ff0;
+	z-index: 1;
+}
+
+
+#tres{
+	width: 200px;
+	height: 200px;
+	left: 500px;
+	top:  300px;
+	background-color: #ff0;
+	z-index: 1;
+}
+
+
+#cuatro{
+	width: 200px;
+	height: 200px;
+	left: 500px;
+	top:  300px;
+	background-color: #ff0;
+	z-index: 1;
+}
+
+
+#cinco{
+	width: 200px;
+	height: 200px;
+	left: 500px;
+	top:  300px;
+	background-color: #ff0;
+	z-index: 1;
+}
+
+
+#seis{
+	width: 200px;
+	height: 200px;
+	left: 500px;
+	top:  300px;
+	background-color: #ff0;
+	z-index: 1;
+}
+
+
+#siete{
+	width: 200px;
+	height: 200px;
+	left: 500px;
+	top:  300px;
+	background-color: #ff0;
+	z-index: 1;
+}
+
+
+#ocho{
+	width: 200px;
+	height: 200px;
+	left: 500px;
+	top:  300px;
+	background-color: #ff0;
+	z-index: 1;
+}
+
+
+#nuevo{
+	width: 200px;
+	height: 200px;
+	left: 500px;
+	top:  300px;
+	background-color: #ff0;
+	z-index: 1;
+}
