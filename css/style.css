@@ -1,16 +1,12 @@
 body{
-	width: 2000px;
-	height: 2000px;
+	width: 3000px;
+	height: 3000px;
+	background-image: url("../img/background.jpg");
 	
 }
 
 .anfitrion{
 	position: fixed;
-	border-bottom-left-radius: 50%;	
-	border-bottom-right-radius: 50%;
-	border-top-left-radius: 50%;
-	border-top-right-radius: 50%;
-	border: 1px solid black;
 	width: 200px;
 	height: 200px;
 	margin-left: 30vw;
@@ -19,19 +15,14 @@ body{
 
 .invitado{
 	position: absolute;
-	border-bottom-left-radius: 50%;	
-	border-bottom-right-radius: 50%;
-	border-top-left-radius: 50%;
-	border-top-right-radius: 50%;
 
 }
 
 #uno{
 	width: 150px;
 	height: 150px;
-	left: 100px;
+	left: 500px;
 	top:  300px;
-	background-color: #ff0;
 	z-index: -1;
 }
 
@@ -39,20 +30,18 @@ body{
 #dos{
 	width: 200px;
 	height: 200px;
-	left: 500px;
+	left: 600px;
 	top:  300px;
-	background-color: #ff0;
 	z-index: 1;
 }
 
 
 #tres{
 	width: 200px;
-	height: 200px;
+	height: 00px;
 	left: 500px;
-	top:  300px;
-	background-color: #ff0;
-	z-index: 1;
+	top:  900px;
+	z-index: -1;
 }
 
 
@@ -60,8 +49,7 @@ body{
 	width: 200px;
 	height: 200px;
 	left: 500px;
-	top:  300px;
-	background-color: #ff0;
+	top:  1900px;
 	z-index: 1;
 }
 
@@ -69,19 +57,17 @@ body{
 #cinco{
 	width: 200px;
 	height: 200px;
-	left: 500px;
-	top:  300px;
-	background-color: #ff0;
-	z-index: 1;
+	left: 900px;
+	top:  600px;
+	z-index: -1;
 }
 
 
 #seis{
 	width: 200px;
 	height: 200px;
-	left: 500px;
-	top:  300px;
-	background-color: #ff0;
+	left: 1100px;
+	top:  900px;
 	z-index: 1;
 }
 
@@ -90,27 +76,52 @@ body{
 	width: 200px;
 	height: 200px;
 	left: 500px;
-	top:  300px;
-	background-color: #ff0;
-	z-index: 1;
+	top:  2000px;
+	z-index: -1;
 }
 
 
 #ocho{
 	width: 200px;
 	height: 200px;
-	left: 500px;
-	top:  300px;
-	background-color: #ff0;
+	left: 1700px;
+	top:  800px;
 	z-index: 1;
 }
 
 
-#nuevo{
+#nueve{
 	width: 200px;
 	height: 200px;
-	left: 500px;
-	top:  300px;
+	left: 2600px;
+	top:  1900px;
 	background-color: #ff0;
 	z-index: 1;
+}
+
+#diez{
+	width: 200px;
+	height: 200px;
+	left: 900px;
+	top:  1300px;
+	z-index: -1;
+}
+
+
+#once{
+	width: 200px;
+	height: 200px;
+	left: 2600px;
+	top:  2300px;
+	z-index: 1;
+}
+
+
+
+#doce{
+	width: 200px;
+	height: 200px;
+	left: 1500px;
+	top:  2000px;	
+	z-index: -1;
 }
